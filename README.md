@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Meu Site</title>
+</head>
+
+<body
+
 # site-apresentacao-html
 Minha apresentação, para estágio em análise e desenvolvimento de sistemas.
 # Olá 👋
@@ -16,3 +24,8 @@ Meu nome é Gildene Gomes.
 - MySQL
 
 📚 Atualmente estudando programação e criando projetos para desenvolver minhas habilidades.
+<h2>Objetivo</h2>
+<p>Busco oportunidade de estágio na área de desenvolvimento para aprender e evoluir na programação.</p>
+
+</body>
+</html>
