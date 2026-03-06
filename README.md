@@ -7,8 +7,8 @@ Meu nome é Gildene Gomes.
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
 💻 Interesses:
-- Desenvolvimento Web
-- Segurança da Informação
+- Desenvolvimento Web (front-end e back-end)
+- Suporte Técnico/TI, Análise de Dados, UX/UI Design e Cibersegurança
 
 🚀 Tecnologias que estou aprendendo:
 - HTML
