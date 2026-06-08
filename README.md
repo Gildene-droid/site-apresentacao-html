@@ -3,46 +3,53 @@
 <head>
 <title> Meu Site </title>
 
-
-
 # 👋 Olá, eu sou o Gildene Gomes
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento web e suporte em TI  
-🚀 Em busca de estágio na área de tecnologia  
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Buscando estágio em TI  
+🔐 Interesse em Desenvolvimento Web e Suporte Técnico  
 
 ---
 
-## 📌 Sobre mim
-Sou estudante de ADS e estou em constante aprendizado, desenvolvendo projetos para evoluir minhas habilidades em programação e tecnologia.
-
-Tenho interesse em atuar na área de desenvolvimento e suporte, buscando crescimento profissional na área de TI.
-
----
-
-## 💻 Tecnologias que estou aprendendo
-- HTML
-- Java
-- MySQL
+## 🚀 Tecnologias que estou aprendendo
+![HTML](https://img.shields.io/badge/HTML-orange)
+![Java](https://img.shields.io/badge/Java-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
 
 ---
 
-## 🎯 Áreas de interesse
-- Desenvolvimento Web (Front-end e Back-end)
-- Suporte Técnico / Help Desk
-- Cibersegurança
-- UX/UI Design
-- Análise de Dados
+## 🎯 Sobre mim
+Estou em constante aprendizado, criando projetos para evoluir minhas habilidades em programação e tecnologia.
 
 ---
 
-## 🚀 Objetivo
-Conquistar uma oportunidade de estágio em TI para aprender na prática e evoluir como desenvolvedor.
+## 📁 Projetos
+- Site de apresentação
+- Lista de tarefas
+- Página de login
 
 ---
 
 ## 📫 Contato
-(Coloque aqui seu e-mail ou LinkedIn se tiver)
+- Email: seuemail@email.com
+- LinkedIn: seu link aqui
+
+<p align="center">
+  <img src="https://i.imgur.com/your-image.png" width="150">
+</p>
+
+<h1 align="center">🚀 Portfólio GitHub</h1>
+
+
+<p align="center">
+  Seu texto aqui
+</p>
+
+
+
+
+
+
 <body
 </head>
 </body>
