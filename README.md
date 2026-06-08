@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Meu Site</title>
+<title> Meu Site </title>
 
-<body
+
 
 # 👋 Olá, eu sou o Gildene Gomes
 
@@ -43,6 +43,7 @@ Conquistar uma oportunidade de estágio em TI para aprender na prática e evolui
 
 ## 📫 Contato
 (Coloque aqui seu e-mail ou LinkedIn se tiver)
+<body
 </head>
 </body>
 </html>
