@@ -2,7 +2,6 @@
 <html>
 <head>
 <title>Meu Site</title>
-</head>
 
 <body
 
@@ -44,5 +43,6 @@ Conquistar uma oportunidade de estágio em TI para aprender na prática e evolui
 
 ## 📫 Contato
 (Coloque aqui seu e-mail ou LinkedIn se tiver)
+</head>
 </body>
 </html>
