@@ -6,26 +6,43 @@
 
 <body
 
-# site-apresentacao-html
-Minha apresentação, para estágio em análise e desenvolvimento de sistemas.
-# Olá 👋
+# 👋 Olá, eu sou o Gildene Gomes
 
-Meu nome é Gildene Gomes.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento web e suporte em TI  
+🚀 Em busca de estágio na área de tecnologia  
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+---
 
-💻 Interesses:
-- Desenvolvimento Web (front-end e back-end)
-- Suporte Técnico/TI, Análise de Dados, UX/UI Design e Cibersegurança
+## 📌 Sobre mim
+Sou estudante de ADS e estou em constante aprendizado, desenvolvendo projetos para evoluir minhas habilidades em programação e tecnologia.
 
-🚀 Tecnologias que estou aprendendo:
+Tenho interesse em atuar na área de desenvolvimento e suporte, buscando crescimento profissional na área de TI.
+
+---
+
+## 💻 Tecnologias que estou aprendendo
 - HTML
 - Java
 - MySQL
 
-📚 Atualmente estudando programação e criando projetos para desenvolver minhas habilidades.
-<h2>Objetivo</h2>
-<p>Busco oportunidade de estágio na área de desenvolvimento para aprender e evoluir na programação.</p>
+---
 
+## 🎯 Áreas de interesse
+- Desenvolvimento Web (Front-end e Back-end)
+- Suporte Técnico / Help Desk
+- Cibersegurança
+- UX/UI Design
+- Análise de Dados
+
+---
+
+## 🚀 Objetivo
+Conquistar uma oportunidade de estágio em TI para aprender na prática e evoluir como desenvolvedor.
+
+---
+
+## 📫 Contato
+(Coloque aqui seu e-mail ou LinkedIn se tiver)
 </body>
 </html>
