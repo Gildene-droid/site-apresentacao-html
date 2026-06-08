@@ -57,6 +57,7 @@ Estou em constante aprendizado, criando projetos para evoluir minhas habilidades
 
 ✔ HTML + validação simples
 
+*************************************************************
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -140,11 +141,5 @@ Estou em constante aprendizado, criando projetos para evoluir minhas habilidades
     © 2026 - Gildene Gomes
 </footer>
 
-</body>
-</html>
-
-
-<body
-</head>
 </body>
 </html>
