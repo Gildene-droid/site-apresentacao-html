@@ -45,7 +45,17 @@ Estou em constante aprendizado, criando projetos para evoluir minhas habilidades
   Seu texto aqui
 </p>
 
+1. 📌 Site de apresentação (o seu já)
 
+✔ HTML + CSS
+
+2. 📌 Lista de tarefas
+
+✔ JavaScript básico
+
+3. 📌 Página de login
+
+✔ HTML + validação simples
 
 
 
