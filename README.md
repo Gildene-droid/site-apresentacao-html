@@ -31,8 +31,8 @@ Estou em constante aprendizado, criando projetos para evoluir minhas habilidades
 ---
 
 ## 📫 Contato
-- Email: seuemail@email.com
-- LinkedIn: seu link aqui
+- Email: gildenygomes@gmail.com
+- LinkedIn: www.linkedin.com/in/gildenegomesfeitosa
 
 <p align="center">
   <img src="https://i.imgur.com/your-image.png" width="150">
